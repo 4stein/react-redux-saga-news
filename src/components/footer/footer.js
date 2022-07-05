@@ -1,6 +1,6 @@
 const Footer = () => (
   <footer>
-    <h3>NEWS WITH REDUX-SAGA</h3>
+    <h3>News with Redux-Saga</h3>
   </footer>
 );
 
