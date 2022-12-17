@@ -1,5 +1,5 @@
 # React with Redux-Saga news app 
-React, Redux-saga
+React, Redux, Redux-saga
 
 ## Available scripts to start application
 
